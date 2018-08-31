@@ -1,0 +1,28 @@
+{
+  "name": "purgecss-loader",
+  "version": "1.0.0",
+  "description": "Purgecss loader for Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullHuman/purgecss-loader.git"
+  },
+  "keywords": [
+    "purgecss",
+    "webpack",
+    "loader"
+  ],
+  "author": "Ian Walter <public@iankwalter.com> (https://iankwalter.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FullHuman/purgecss-loader/issues"
+  },
+  "homepage": "https://github.com/FullHuman/purgecss-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "purgecss": "^1.1.0"
+  }
+}
