@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loader removes unused CSS rules 1`] = `
+"h2.example {
+  font-size: 2rem;
+}
+h5.example {
+  font-size: 1.25rem;
+}
+"
+`;
