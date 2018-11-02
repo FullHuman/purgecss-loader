@@ -5,7 +5,7 @@
 ## Installation
 
 ```console
-npm install purgecss-loader --save-dev
+npm install @fullhuman/purgecss-loader --save-dev
 ```
 
 ## Usage

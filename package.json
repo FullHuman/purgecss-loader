@@ -1,5 +1,5 @@
 {
-  "name": "purgecss-loader",
+  "name": "@fullhuman/purgecss-loader",
   "version": "1.0.0",
   "description": "Purgecss loader for Webpack",
   "main": "index.js",
